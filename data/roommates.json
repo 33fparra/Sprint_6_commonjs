@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b99a3f88-f660-446a-8c45-0a4cc7d53c7d",
+    "nombre": "Sonia Calvo",
+    "debe": 2500,
+    "recibe": 12500
+  },
+  {
+    "id": "6337b57c-d3e5-431d-b7cf-54b9c4bc053d",
+    "nombre": "Birger Dahmen",
+    "debe": 2500,
+    "recibe": 0
+  },
+  {
+    "id": "29bfcf3d-6d08-494e-ace8-5e52644262e2",
+    "nombre": "Joshua Cooper",
+    "debe": 2500,
+    "recibe": 0
+  },
+  {
+    "id": "657ba367-91b8-4508-9b78-ed287f1721d2",
+    "nombre": "Madison Wilson",
+    "debe": 2500,
+    "recibe": 0
+  },
+  {
+    "id": "59fb7f3d-9b97-4a07-be77-ace6b8975f56",
+    "nombre": "Rishaan Ramesh",
+    "debe": 2500,
+    "recibe": 0
+  },
+  {
+    "id": "12d9912c-7243-49b4-a19a-0c97166ebeb6",
+    "nombre": "Sanjana Gamskar",
+    "debe": 2500,
+    "recibe": 0
+  }
+]

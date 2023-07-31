@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "uuid": "^9.0.0"
+  }
+}
